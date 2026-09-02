@@ -1,0 +1,10 @@
+{
+  "name": "Turtlemint Message Crafter",
+  "description": "Smart WhatsApp and Email message framing tool that converts Hindi, Hinglish, or English speech and text into polished English messages.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
